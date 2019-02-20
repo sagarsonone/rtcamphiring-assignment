@@ -40,14 +40,29 @@
 #### Screenshot of my created theme :
 ![screenshot](https://user-images.githubusercontent.com/47240371/53086083-67ed1500-352a-11e9-9356-9f9775a9f325.png)
 #### Level 2 menu :
-![ss2](https://files.000webhost.com/handler.php?action=download?action=download&path=%2Flevel2+menu.png)
-#### Custom menu options :
-![ss3](https://files.000webhost.com/handler.php?action=download?action=download&path=%2FCustomization+menu.png)
-#### Custom footer widgets area options :
-![ss4](https://files.000webhost.com/handler.php?action=download?action=download&path=%2FFooter+widget.png)
-#### Custom post based slider options :
-![ss5](https://user-images.githubusercontent.com/42610373/45162864-92614500-b20c-11e8-9311-add8a8d43a08.JPG)
-#### Child pages of Home page and Sub pages of Child pages :
-![ss6](https://user-images.githubusercontent.com/42610373/45162871-97be8f80-b20c-11e8-959a-3224226ae58b.JPG)
+![level2 menu](https://user-images.githubusercontent.com/47240371/53086213-aedb0a80-352a-11e9-9c66-d7119f7d45af.png)
+#### Bottom Customizable text :
+![bottom customizable text](https://user-images.githubusercontent.com/47240371/53086456-2872f880-352b-11e9-8bd7-f64f4a8bcaa2.png)
+#### Company Logo Change Option :
+![company logo change option](https://user-images.githubusercontent.com/47240371/53086475-332d8d80-352b-11e9-9982-d2e2e0387dc3.png)
+#### Customization Menu :
+![customization menu](https://user-images.githubusercontent.com/47240371/53086496-3f194f80-352b-11e9-867a-03ea53d54467.png)
+#### Footer Company Logo :
+![footer company logo](https://user-images.githubusercontent.com/47240371/53086521-4a6c7b00-352b-11e9-9261-706fa14baec1.png)
+#### Footer Widget :
+![footer widget](https://user-images.githubusercontent.com/47240371/53086549-53f5e300-352b-11e9-81a7-cbc9e466a7ed.png)
+#### Homepage Settings :
+![homepage setting](https://user-images.githubusercontent.com/47240371/53086606-6d972a80-352b-11e9-9b82-93ac12ae4a41.png)
+#### Page (Child page included) :
+![page child page included](https://user-images.githubusercontent.com/47240371/53086640-7c7ddd00-352b-11e9-9c06-90c3a790607f.png)
+#### Plugin Used :
+![plugin used](https://user-images.githubusercontent.com/47240371/53086657-869fdb80-352b-11e9-9d4a-44cd9c809836.png)
+#### Post Slider For Image slideshow :
+![post slider for image slideshow](https://user-images.githubusercontent.com/47240371/53086676-8ef81680-352b-11e9-984d-93cdeaa46dac.png)
+#### Post Option :
+![posts option](https://user-images.githubusercontent.com/47240371/53086687-98817e80-352b-11e9-82a1-dc232b890a19.png)
+
+
+
 
 
