@@ -38,13 +38,13 @@
   
 ## Screenshots of my custom theme and theme options :
 #### Screenshot of my created theme :
-![ss1](https://user-images.githubusercontent.com/42610373/45162801-7493e000-b20c-11e8-9f04-2fa3ad38e0a4.JPG)
-#### Custom theme options :
-![ss2](https://user-images.githubusercontent.com/42610373/45162813-7a89c100-b20c-11e8-9ece-f264afbdd2c4.JPG)
+![ss1]()
+#### Level 2 menu :
+![ss2](https://files.000webhost.com/handler.php?action=download?action=download&path=%2Flevel2+menu.png)
 #### Custom menu options :
-![ss3](https://user-images.githubusercontent.com/42610373/45162823-82e1fc00-b20c-11e8-8c23-44d9103c96ba.JPG)
+![ss3](https://files.000webhost.com/handler.php?action=download?action=download&path=%2FCustomization+menu.png)
 #### Custom footer widgets area options :
-![ss4](https://user-images.githubusercontent.com/42610373/45162838-88d7dd00-b20c-11e8-8586-1ffd8ff4f377.JPG)
+![ss4](https://files.000webhost.com/handler.php?action=download?action=download&path=%2FFooter+widget.png)
 #### Custom post based slider options :
 ![ss5](https://user-images.githubusercontent.com/42610373/45162864-92614500-b20c-11e8-9311-add8a8d43a08.JPG)
 #### Child pages of Home page and Sub pages of Child pages :
