@@ -38,7 +38,7 @@
   
 ## Screenshots of my custom theme and theme options :
 #### Screenshot of my created theme :
-![ss1]()
+![screenshot](https://user-images.githubusercontent.com/47240371/53086083-67ed1500-352a-11e9-9356-9f9775a9f325.png)
 #### Level 2 menu :
 ![ss2](https://files.000webhost.com/handler.php?action=download?action=download&path=%2Flevel2+menu.png)
 #### Custom menu options :
