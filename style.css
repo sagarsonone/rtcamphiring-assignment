@@ -672,7 +672,10 @@ a:hover, a:active {
 }
 
 .main-navigation ul ul a {
-	width: 200px;
+	width: 80px;
+	line-height: 22px;
+	font-size: 14px;
+	border: #A9A9A9 0.5px solid;
 }
 
 .main-navigation ul li:hover > ul,

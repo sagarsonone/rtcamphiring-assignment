@@ -116,10 +116,9 @@ h3{
 	color: #ccc;
 	text-align: left;
 	line-height: 1.5;
-	padding-top: 5px;
-
+    padding-top: 5px;
 }
-/*----- Top-And-Down Pagination (slippry)-----*/
+/*----- Top-Down Pagination -----*/
 .sy-controls {
 	list-style: none;
 	height: 100%;
@@ -163,7 +162,8 @@ h3{
 	width: 0%;
 	height: 0%;
 	display: block;
-	text-indent: -9999px;
+	text-indent: 0;
+	color: rgba(0,0,0,0.0);
 }
 .sy-controls li a:after {
 	content: "";
@@ -174,7 +174,7 @@ h3{
 	top: 10%;
 	border-radius: 50%;
 }
-/*----- List Bullets(slippry) ----- */
+/*----- List Bullets ----- */
 .sy-pager {
     list-style: none;
     position: absolute;
@@ -275,9 +275,10 @@ div.child-pages-content {
 	font-family: Georgia;
 	font-size: 13px;
 	font-weight: bold;
+	padding-top: 7px;
+	line-height: 16px;
 	color: #000;
 	width: 205px;
-	padding-top: 5px;
 	padding-bottom: 0;
 	margin-bottom: 0;
 	text-decoration: none;
@@ -287,9 +288,8 @@ div.child-pages-content {
 	margin: 0 auto;
 	padding: 0 auto;
 	font-weight: normal;
-	line-height: 1.3em;
-	padding-top: 5px;
 	font-size: 13px;
+	line-height: 15px;
 	width: 205px;
 	color: #333;
 	text-decoration: none;
@@ -327,6 +327,25 @@ h2.widget-title:last-child {
 	padding-right: 0;
 	margin-right: 0;
 }
+/*ul.rpwe-ul,
+#rpwe_widget-2,
+.widget,
+.rpwe_widget,
+.recent-posts-extended {
+	margin: 0;
+	padding: 0;
+}
+.rpwe-block ul li {
+	font-family: Tahoma;
+    background: url(../images/footer-bullet.jpg) no-repeat 0 7px;
+    margin: 5px 5px;
+    width: 210px;
+    line-height: 1.25;
+    padding-left: 15px;
+}
+.rpwe-block ul li:hover {
+        background: url(../images/footer-bullethover.jpg)  no-repeat 0 7px;
+}*/
 ul.rpwwt-ul,
 #rpwwt_widget-2,
 .widget,
@@ -375,6 +394,12 @@ ul.rpwwt-ul,
 	
 	margin-left: 5px;
 } 
+/*.rpwe-block ul li a {
+	text-decoration: none;
+	font-size: 13px;
+	color: #888;
+	font-weight: normal;
+}*/
 .rpwwt-widget ul li a {
 	text-decoration: none;
 	font-size: 13px;
@@ -553,7 +578,8 @@ ul.rpwwt-ul,
     	justify-content: center;
     }
     .main-navigation li a {
-    	font-size: 11px;
+    	font-size: 15px;
+    	line-height: 18px;
     }
     .site-header {
     	background-image: none;
@@ -620,7 +646,7 @@ ul.rpwwt-ul,
 	    top: 86%; 
 	}
 	.sy-controls li a {
-		display: none;
+		/**display: none;  COMMENTED OUT!**/
 	}
 	/*----- List Bullets ----- */
 	.sy-pager {
@@ -705,3 +731,4 @@ ul.rpwwt-ul,
 		background-color: white !important;
 	}
 }
+
