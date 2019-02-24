@@ -327,25 +327,6 @@ h2.widget-title:last-child {
 	padding-right: 0;
 	margin-right: 0;
 }
-/*ul.rpwe-ul,
-#rpwe_widget-2,
-.widget,
-.rpwe_widget,
-.recent-posts-extended {
-	margin: 0;
-	padding: 0;
-}
-.rpwe-block ul li {
-	font-family: Tahoma;
-    background: url(../images/footer-bullet.jpg) no-repeat 0 7px;
-    margin: 5px 5px;
-    width: 210px;
-    line-height: 1.25;
-    padding-left: 15px;
-}
-.rpwe-block ul li:hover {
-        background: url(../images/footer-bullethover.jpg)  no-repeat 0 7px;
-}*/
 ul.rpwwt-ul,
 #rpwwt_widget-2,
 .widget,
@@ -394,12 +375,6 @@ ul.rpwwt-ul,
 	
 	margin-left: 5px;
 } 
-/*.rpwe-block ul li a {
-	text-decoration: none;
-	font-size: 13px;
-	color: #888;
-	font-weight: normal;
-}*/
 .rpwwt-widget ul li a {
 	text-decoration: none;
 	font-size: 13px;
